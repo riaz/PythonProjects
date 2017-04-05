@@ -1,0 +1,9 @@
+<app>
+	<browser>
+		<name>Google Chrome</name>
+		<path>/opt/google/chrome/chrome</path>
+		<flags>new-window</flags>
+		<flgop>--</flgop>
+	</browser>
+
+</app>
